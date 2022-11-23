@@ -1,6 +1,6 @@
 # MSone മലയാളം subtitles API (unofficial)
 
-| Starting November 28th, 2022, free Heroku Dynos, free Heroku Postgres, and free Heroku Data for Redis® will no longer be available, Live API wont function after that.
+> After November 28th, 2022, Heroku is terminating is free plans, Live API wont function after that.
 
 Base URL: `https://malayalam-subtitles.herokuapp.com/<imdb-id>`
 
